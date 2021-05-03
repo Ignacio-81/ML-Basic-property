@@ -1,0 +1,2 @@
+EL trabajo tiene una presentación en PDF (primero leer) y luego el desarrollo del análisis en el archivo Notebook. 
+El notebook carga los datos del archivo CSV con la base de los datos. No se puede subir el mismo ya que pesa +10Mb.
